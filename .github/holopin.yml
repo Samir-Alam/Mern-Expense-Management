@@ -1,0 +1,16 @@
+organization: holopin # org name on holopin
+defaultSticker: cl7td8iq6014809k0mf12i1e6 # sticker ID
+stickers:
+  -
+    id: cl7td8iq6014809k0mf12i1e6 # sticker id
+    alias: deserves-badges # shorthand-string
+  -
+   id: cl7td8iq6014809k0mf12i1e7
+   alias: awesome-contributor
+holobytes:
+  -
+    alias: cookie
+    icon: cherry
+  -
+    alias: cake
+    icon: birthday
